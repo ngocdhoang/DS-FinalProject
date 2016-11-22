@@ -1,0 +1,1468 @@
+Date,Month,Device,Channel,Campaign Type,Media Type,Region,Targeting,Cost,Clicks
+12/2/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,101.36,4104
+12/2/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,1.06,26
+12/3/15,12,Desktop,Google,Reach,Display,EMEA,Reach,69.62,14
+12/3/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,1.8,10
+12/3/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,49.24,2252
+12/4/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,16.12,662
+12/4/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,7.68,214
+12/4/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,1.36,6
+12/5/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,422.84,260
+12/5/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,654.2,25098
+12/5/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,3.64,16
+12/5/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,26.68,1186
+12/5/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,3.02,94
+12/5/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,11.12,14
+12/6/15,12,Desktop,Google,In-Market,Display,APAC,Reach,169.2,462
+12/6/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,14.24,498
+12/6/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,10.2,284
+12/6/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,3.1,88
+12/6/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,14.78,30
+12/6/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,2.86,6
+12/7/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,111.1,402
+12/7/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,16.88,886
+12/7/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,584.84,306
+12/7/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,901.64,88
+12/7/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,377.12,106
+12/7/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,752.9,28840
+12/7/15,12,Tablet,Google,In-Market,Display,APAC,Reach,39.88,108
+12/7/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,0.54,2
+12/7/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,7.88,224
+12/7/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,46.34,48
+12/7/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,16.72,24
+12/8/15,12,Desktop,Google,In-Market,Display,APAC,Reach,265.66,578
+12/8/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,18,536
+12/8/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.6,56
+12/8/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,1.82,56
+12/8/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,27.38,42
+12/9/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,109.88,474
+12/9/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,68.98,1660
+12/9/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,684.44,246
+12/9/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,827.82,80
+12/9/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,327.4,100
+12/9/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,342.48,13144
+12/9/15,12,Tablet,Google,In-Market,Display,APAC,Reach,31.4,80
+12/9/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,44.62,38
+12/10/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.34,40
+12/10/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,65.88,62
+12/10/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,306.44,11084
+12/10/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,21.46,18
+12/10/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,38.72,64
+12/11/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,633.38,394
+12/11/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,385.24,166
+12/1/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.16,10
+12/1/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,37.72,60
+12/1/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,91.94,36
+12/1/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,25.92,12
+12/1/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,492.84,80
+12/2/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,454.58,152
+12/2/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,477.06,216
+12/2/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,59.98,2236
+12/2/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,29.8,1358
+12/2/15,12,Desktop,Google,Reach,Display,EMEA,Reach,8.3,4
+12/2/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.12,4
+12/2/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,69.06,34
+12/2/15,12,Tablet,Google,Managed,Display,EMEA,Reach,99.6,136
+12/3/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1159.56,2826
+12/3/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,694.34,228
+12/3/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,450.3,160
+12/3/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,172.08,6730
+12/3/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,67.46,2624
+12/3/15,12,Tablet,Google,Managed,Display,LATAM,Reach,66.16,218
+12/3/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,2.8,80
+12/3/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,0.08,2
+12/4/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,68.5,48
+12/4/15,12,Mobile,Google,In-Market,Display,APAC,Reach,374.76,2476
+12/4/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,22.02,1000
+12/4/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,48.8,46
+12/5/15,12,Desktop,Google,In-Market,Display,APAC,Reach,124.88,328
+12/5/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,38.64,1554
+12/5/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,20.7,686
+12/5/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,12.7,350
+12/6/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,92.58,678
+12/6/15,12,Desktop,Google,Managed,Display,EMEA,Reach,832.28,792
+12/6/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,17.58,760
+12/6/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,442.16,308
+12/6/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,405.26,148
+12/6/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,667.08,24862
+12/6/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,3.78,16
+12/6/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,31.26,1402
+12/6/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,5.12,168
+12/6/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,7.28,6
+12/7/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1214.22,3518
+12/7/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,1,32
+12/7/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,11.02,32
+12/8/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,1.3,2
+12/9/15,12,Desktop,Google,In-Market,Display,APAC,Reach,231.64,460
+12/9/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,12.88,464
+12/9/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.92,74
+12/10/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,481.62,264
+12/10/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,480.8,242
+12/10/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,269.16,84
+12/10/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,235.6,86
+12/10/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,264.14,9876
+12/10/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,542.44,20214
+12/10/15,12,Tablet,Google,In-Market,Display,APAC,Reach,36.7,178
+12/11/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,754.62,24972
+12/12/15,12,Mobile,Google,In-Market,Display,APAC,Reach,1133.84,9494
+12/12/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,607.42,21390
+12/12/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,22.4,24
+12/12/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,962.14,23174
+12/12/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,39.96,1226
+12/13/15,12,Mobile,Google,In-Market,Display,AMS,Reach,16.2,92
+12/13/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,22.26,586
+12/13/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,16.2,422
+12/14/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,1480.2,28290
+12/14/15,12,Mobile,Google,In-Market,Display,APAC,Reach,434.14,3892
+12/14/15,12,Mobile,Google,Reach - Text,Display,LATAM,Reach,1462.02,52724
+12/14/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,1278.84,29302
+12/14/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,292.46,8722
+12/14/15,12,Tablet,Google,Reach - Text,Display,LATAM,Reach,244.48,8388
+12/15/15,12,Desktop,Google,In-Market,Display,AMS,Reach,8.64,14
+12/15/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.04,4
+12/15/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,14.9,400
+12/15/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.16,6
+12/15/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,29.22,834
+12/15/15,12,Mobile,Google,Remarketing - Text,Display,AMS,Remarketing,65.76,80
+12/15/15,12,Mobile,Google,Remarketing - Text,Display,EMEA,Remarketing,5.4,8
+12/15/15,12,Tablet,Google,Managed,Display,AMS,Reach,181.08,748
+12/15/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,23.5,520
+12/15/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,2.52,80
+12/15/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,327.1,1234
+12/16/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,1682.16,31430
+12/16/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,155.68,34
+12/16/15,12,Mobile,Google,In-Market,Display,APAC,Reach,332.8,4360
+12/16/15,12,Tablet,Google,In-Market,Display,APAC,Reach,28.38,174
+12/16/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,79.5,2270
+12/16/15,12,Tablet,Google,Reach - Text,Display,LATAM,Reach,776.06,26866
+12/17/15,12,Desktop,Google,Image,Display,APAC,Remarketing,48.76,166
+12/17/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.02,2
+12/17/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,11.3,316
+12/17/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.14,6
+12/17/15,12,Desktop,Google,Reach - Text,Display,APAC,Reach,156.16,3120
+12/17/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,2.18,44
+12/17/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,2314.86,80420
+12/17/15,12,Mobile,Google,Remarketing - Text,Display,AMS,Remarketing,85.26,180
+12/17/15,12,Mobile,Google,Remarketing - Text,Display,APAC,Remarketing,47.76,318
+12/17/15,12,Mobile,Google,Remarketing - Text,Display,EMEA,Remarketing,38.78,112
+12/17/15,12,Tablet,Google,Image,Display,APAC,Remarketing,6.8,26
+12/17/15,12,Tablet,Google,Managed,Display,AMS,Reach,261.04,938
+12/17/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,2.06,54
+12/17/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,2.32,4
+12/18/15,12,Mobile,Google,In-Market,Display,AMS,Reach,1000.84,6788
+12/18/15,12,Tablet,Google,In-Market,Display,AMS,Reach,83.5,170
+12/18/15,12,Tablet,Google,Managed,Display,LATAM,Reach,157.1,794
+12/19/15,12,Tablet,Google,Managed,Display,EMEA,Reach,185.56,622
+12/20/15,12,Desktop,Google,Managed,Display,LATAM,Reach,2253.14,10178
+12/20/15,12,Mobile,Google,In-Market,Display,AMS,Reach,950.22,5724
+12/20/15,12,Tablet,Google,In-Market,Display,AMS,Reach,95.1,224
+12/20/15,12,Tablet,Google,Managed,Display,LATAM,Reach,151.48,684
+12/21/15,12,Desktop,Google,Managed,Display,APAC,Reach,6776.56,14568
+12/21/15,12,Desktop,Google,Managed,Display,EMEA,Reach,201.52,456
+12/21/15,12,Tablet,Google,Managed,Display,EMEA,Reach,339.42,1288
+12/22/15,12,Desktop,Google,Managed,Display,LATAM,Reach,715.88,3098
+12/23/15,12,Desktop,Google,Managed,Display,APAC,Reach,8495.5,18750
+12/23/15,12,Desktop,Google,Managed,Display,EMEA,Reach,459.62,560
+12/31/15,12,Desktop,Google,Managed,Display,LATAM,Reach,266.56,2098
+12/1/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,506.02,1758
+12/1/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,625.14,280
+12/1/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,532.56,160
+12/1/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,2789.4,244
+12/1/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,332.96,114
+12/1/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,45.96,1524
+12/1/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,17.82,778
+12/1/15,12,Tablet,Google,In-Market,Display,APAC,Reach,71.68,240
+12/1/15,12,Tablet,Google,Managed,Display,LATAM,Reach,87.18,248
+12/1/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,0.18,8
+12/1/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,5.02,204
+12/1/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,51.5,36
+12/2/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,90.18,86
+12/2/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,68.98,66
+12/2/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,273.9,46
+12/3/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,111.28,4298
+12/3/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,1.02,2
+12/4/15,12,Desktop,Google,Managed,Display,EMEA,Reach,903.16,568
+12/4/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,108.28,44
+12/4/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,231.9,8688
+12/4/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,1,8
+12/4/15,12,Tablet,Google,Managed,Display,EMEA,Reach,66.32,64
+12/4/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,6.12,300
+12/4/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,0.54,20
+12/4/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,40.38,12
+12/5/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1074.12,3052
+12/5/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,1.78,2
+12/6/15,12,Mobile,Google,In-Market,Display,APAC,Reach,371.14,2210
+12/6/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,58.1,2832
+12/7/15,12,Desktop,Google,In-Market,Display,APAC,Reach,194.02,496
+12/7/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.1,4
+12/7/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,12.1,494
+12/7/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.48,60
+12/7/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,8.9,246
+12/8/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,107.32,620
+12/8/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,14.7,524
+12/8/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,414.22,256
+12/8/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,783.72,106
+12/2/15,12,Tablet,Google,In-Market,Display,APAC,Reach,34.64,128
+12/2/15,12,Tablet,Google,Managed,Display,LATAM,Reach,61.94,234
+12/2/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,12.7,490
+12/2/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,29.3,38
+12/3/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,40.76,70
+12/3/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,101.26,20
+12/3/15,12,Tablet,Google,Managed,Display,EMEA,Reach,86.12,106
+12/3/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,36.18,48
+12/3/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,263.68,50
+12/4/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1148.4,2750
+12/4/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,416.22,158
+12/4/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,165.4,6556
+12/4/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,209.78,7648
+12/4/15,12,Tablet,Google,Managed,Display,LATAM,Reach,51.7,208
+12/5/15,12,Desktop,Google,Managed,Display,EMEA,Reach,886.66,828
+12/5/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,80.4,20
+12/5/15,12,Mobile,Google,In-Market,Display,APAC,Reach,409.96,2890
+12/5/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,36.52,1664
+12/5/15,12,Tablet,Google,Managed,Display,EMEA,Reach,55.76,80
+12/5/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,17.68,30
+12/6/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1079.46,3340
+12/6/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,25.78,904
+12/7/15,12,Desktop,Google,Managed,Display,EMEA,Reach,964.44,702
+12/7/15,12,Mobile,Google,In-Market,Display,APAC,Reach,375.54,2332
+12/7/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,49.88,2374
+12/7/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,28.76,976
+12/8/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.14,12
+12/8/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,242.68,50
+12/9/15,12,Tablet,Google,Managed,Display,LATAM,Reach,46.6,192
+12/9/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,2.62,58
+12/9/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,29.6,892
+12/10/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.04,4
+12/10/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,108.98,60
+12/10/15,12,Mobile,Google,Remarketing,Display,APAC,Remarketing,5.32,2
+12/10/15,12,Tablet,Google,Managed,Display,EMEA,Reach,62.42,52
+12/10/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,38.36,70
+12/10/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,69.56,34
+12/11/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,114.34,3902
+12/11/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,268.36,9090
+12/11/15,12,Tablet,Google,Managed,Display,LATAM,Reach,123.88,432
+12/11/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,5,98
+12/11/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,0.12,4
+12/12/15,12,Desktop,Google,Managed,Display,EMEA,Reach,291.76,18
+12/12/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,37.26,30
+12/12/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,144.9,6602
+12/12/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,14.54,72
+12/12/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,54.26,96
+12/13/15,12,Desktop,Google,Managed,Display,LATAM,Reach,5428.42,20208
+12/13/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,2530.08,67506
+12/13/15,12,Desktop,Google,Reach - Text,Display,Global,Reach,1730.16,33542
+12/13/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,116.12,3988
+12/13/15,12,Mobile,Google,Reach - Text,Display,AMS,Reach,0.62,24
+12/13/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,2.16,10
+12/13/15,12,Tablet,Google,Managed,Display,APAC,Reach,404.3,712
+12/13/15,12,Tablet,Google,Managed,Display,LATAM,Reach,276.28,914
+12/13/15,12,Tablet,Google,Reach - Text,Display,AMS,Reach,0.32,8
+12/13/15,12,Tablet,Google,Reach - Text,Display,APAC,Reach,26.08,824
+12/13/15,12,Tablet,Google,Reach - Text,Display,Global,Reach,553.22,15126
+12/13/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,6.14,20
+12/14/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,1028.5,3360
+12/14/15,12,Desktop,Google,Managed,Display,AMS,Reach,441.18,320
+12/10/15,12,Tablet,Google,Managed,Display,LATAM,Reach,54.52,234
+12/10/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,4.96,106
+12/10/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,42.48,1308
+12/10/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,40.42,42
+12/11/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,23.72,12
+12/11/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,342.08,10652
+12/11/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,37.18,28
+12/11/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,41.18,66
+12/11/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,78.16,46
+12/12/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,1986.1,49466
+12/12/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,23.46,628
+12/13/15,12,Desktop,Google,Managed,Display,AMS,Reach,621,478
+12/13/15,12,Desktop,Google,Managed,Display,APAC,Reach,766.98,1204
+12/13/15,12,Desktop,Google,Managed,Display,EMEA,Reach,1260.1,948
+12/13/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,2108.36,4150
+12/13/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,1011.7,1306
+12/13/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,10143.8,314554
+12/13/15,12,Mobile,Google,Reach - Text,Display,LATAM,Reach,641.72,20094
+12/13/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,14.38,56
+12/13/15,12,Tablet,Google,Managed,Display,EMEA,Reach,86.64,134
+12/13/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,1117.02,27126
+12/13/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,143.54,4348
+12/13/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,3.7,2
+12/13/15,12,Unknown,Google,Reach - Image,Display,Global,Reach,0.12,2
+12/14/15,12,Desktop,Google,Managed,Display,LATAM,Reach,6356.04,24938
+12/14/15,12,Desktop,Google,Reach - Text,Display,Global,Reach,4810.14,92940
+12/14/15,12,Tablet,Google,Managed,Display,AMS,Reach,425.28,332
+12/14/15,12,Tablet,Google,Managed,Display,APAC,Reach,367.96,612
+12/14/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,13.08,28
+12/15/15,12,Mobile,Google,In-Market,Display,APAC,Reach,394.58,4874
+12/15/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,503.34,19550
+12/15/15,12,Mobile,Google,Reach - Text,Display,Global,Reach,8312.68,316248
+12/15/15,12,Tablet,Google,Reach - Text,Display,LATAM,Reach,783.86,25294
+12/16/15,12,Desktop,Google,Image,Display,APAC,Remarketing,2.24,8
+12/16/15,12,Desktop,Google,In-Market,Display,AMS,Reach,0.94,2
+12/16/15,12,Desktop,Google,In-Market,Display,APAC,Reach,817.08,3336
+12/16/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,100.04,276
+12/16/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,13.12,342
+12/16/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.08,8
+12/16/15,12,Desktop,Google,Remarketing - Text,Display,Global,Remarketing,1779.1,2746
+12/16/15,12,Mobile,Google,Remarketing,Display,APAC,Remarketing,88.42,486
+12/16/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,75.98,250
+12/16/15,12,Tablet,Google,Image,Display,APAC,Remarketing,0.14,2
+12/16/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,75.92,436
+12/16/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,14.6,340
+12/16/15,12,Tablet,Google,Remarketing - Text,Display,Global,Remarketing,51.06,250
+12/17/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,617.66,11202
+12/17/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,23.52,22
+12/17/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,4.56,6
+12/17/15,12,Mobile,Google,Reach - Text,Display,APAC,Reach,0.02,2
+12/17/15,12,Tablet,Google,In-Market,Display,AMS,Reach,1.62,12
+12/17/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,2.5,56
+12/17/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,52.72,1466
+12/18/15,12,Tablet,Google,Managed,Display,AMS,Reach,678.5,1772
+12/20/15,12,Desktop,Google,Managed,Display,APAC,Reach,4819.5,11274
+12/20/15,12,Tablet,Google,Managed,Display,EMEA,Reach,330.62,1444
+12/21/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1756.66,7818
+12/21/15,12,Mobile,Google,In-Market,Display,AMS,Reach,950.04,8174
+12/21/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,680.74,5390
+12/21/15,12,Tablet,Google,Managed,Display,LATAM,Reach,94.82,556
+12/31/15,12,Desktop,Google,Reach - Text,Display,Global,Reach,2673.7,57830
+12/31/15,12,Tablet,Google,Managed,Display,APAC,Reach,83.02,766
+12/31/15,12,Tablet,Google,Remarketing - Text,Display,Global,Remarketing,81.4,874
+12/8/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,403.66,102
+12/8/15,12,Tablet,Google,In-Market,Display,APAC,Reach,38.58,82
+12/8/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,2.24,58
+12/8/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,39.46,1114
+12/8/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,69.38,40
+12/9/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,27.84,50
+12/9/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,6.62,244
+12/9/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,40.38,54
+12/9/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,195.02,42
+12/10/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,846.26,9612
+12/11/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,51.76,34
+12/11/15,12,Tablet,Google,Managed,Display,EMEA,Reach,31.84,34
+12/12/15,12,Desktop,Google,Managed,Display,LATAM,Reach,5492.04,17046
+12/12/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,509.52,316
+12/12/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,261.48,9074
+12/12/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,827.36,29074
+12/12/15,12,Tablet,Google,Managed,Display,LATAM,Reach,196.46,634
+12/12/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,5.18,102
+12/12/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,0.08,4
+12/13/15,12,Mobile,Google,In-Market,Display,APAC,Reach,904.94,8034
+12/13/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,134.4,5508
+12/13/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,56.14,98
+12/14/15,12,Desktop,Google,In-Market,Display,APAC,Reach,973.52,3454
+12/14/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,14.16,428
+12/14/15,12,Mobile,Google,Reach - Text,Display,AMS,Reach,0.04,2
+12/14/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,15.64,472
+12/14/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,111.66,300
+12/14/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,87.42,472
+12/14/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,21.72,498
+12/15/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,2296.92,6858
+12/15/15,12,Desktop,Google,Managed,Display,AMS,Reach,1.84,6
+12/15/15,12,Desktop,Google,Managed,Display,APAC,Reach,1473,2948
+12/15/15,12,Desktop,Google,Managed,Display,EMEA,Reach,50.42,146
+12/15/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,2293.86,45478
+12/15/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,5261.64,9238
+12/15/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,280.24,50
+12/15/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,47.58,18
+12/15/15,12,Desktop,Google,Remarketing - Text,Display,AMS,Remarketing,158.88,40
+12/15/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,9241.88,369892
+12/15/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,14.78,48
+12/15/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,1790.34,40292
+12/15/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,385.02,11776
+12/15/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,4.2,4
+12/15/15,12,Unknown,Google,Reach - Image,Display,Global,Reach,0.1,2
+12/16/15,12,Desktop,Google,Reach - Text,Display,APAC,Reach,157.6,3188
+12/16/15,12,Desktop,Google,Reach - Text,Display,Global,Reach,5323.36,104120
+12/16/15,12,Mobile,Google,Remarketing - Text,Display,AMS,Remarketing,417.2,282
+12/16/15,12,Mobile,Google,Remarketing - Text,Display,APAC,Remarketing,5.16,26
+12/16/15,12,Mobile,Google,Remarketing - Text,Display,EMEA,Remarketing,164.2,188
+12/16/15,12,Tablet,Google,Managed,Display,AMS,Reach,381.64,1348
+12/16/15,12,Tablet,Google,Managed,Display,APAC,Reach,960.58,3052
+12/16/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,4.1,126
+12/16/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,530.9,1742
+12/17/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,73.16,1906
+12/17/15,12,Desktop,Google,Remarketing - Text,Display,EMEA,Remarketing,35.1,42
+12/17/15,12,Mobile,Google,Reach - Text,Display,Global,Reach,5916.24,207066
+12/17/15,12,Tablet,Google,Reach - Text,Display,LATAM,Reach,425.26,15048
+12/18/15,12,Desktop,Google,In-Market,Display,AMS,Reach,18.7,36
+12/18/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,90.6,140
+12/18/15,12,Tablet,Google,Managed,Display,EMEA,Reach,333.56,1250
+12/14/15,12,Desktop,Google,Managed,Display,APAC,Reach,749.26,1244
+12/14/15,12,Desktop,Google,Managed,Display,EMEA,Reach,1393.48,1082
+12/14/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,2333.38,5288
+12/14/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,313.42,11700
+12/14/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,4934.36,196750
+12/14/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,5.48,30
+12/14/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,2.08,4
+12/15/15,12,Desktop,Google,In-Market,Display,APAC,Reach,942.04,3624
+12/15/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,95.14,268
+12/15/15,12,Desktop,Google,Managed,Display,LATAM,Reach,5183.04,19750
+12/15/15,12,Desktop,Google,Reach - Text,Display,Global,Reach,5400.62,104072
+12/15/15,12,Desktop,Google,Remarketing - Text,Display,Global,Remarketing,1522.88,1482
+12/15/15,12,Mobile,Google,Reach - Text,Display,AMS,Reach,0.04,4
+12/15/15,12,Mobile,Google,Remarketing,Display,APAC,Remarketing,107.04,464
+12/15/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,131.82,336
+12/15/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,72.74,450
+12/15/15,12,Tablet,Google,Managed,Display,APAC,Reach,641.4,2080
+12/15/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,22.06,62
+12/15/15,12,Tablet,Google,Remarketing - Text,Display,Global,Remarketing,23.48,64
+12/16/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,2081.7,5344
+12/16/15,12,Desktop,Google,Managed,Display,AMS,Reach,5.7,16
+12/16/15,12,Desktop,Google,Managed,Display,EMEA,Reach,134.2,298
+12/16/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,5524.3,11436
+12/16/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,9.36,4
+12/16/15,12,Desktop,Google,Remarketing - Text,Display,EMEA,Remarketing,265.7,88
+12/16/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,816.68,31774
+12/16/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,9712.9,393602
+12/16/15,12,Mobile,Google,Reach - Text,Display,APAC,Reach,0.02,2
+12/16/15,12,Mobile,Google,Reach - Text,Display,Global,Reach,7746.12,293522
+12/17/15,12,Desktop,Google,Remarketing - Text,Display,Global,Remarketing,5366.82,24358
+12/17/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,42.36,200
+12/17/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,35.28,170
+12/17/15,12,Tablet,Google,Remarketing - Text,Display,APAC,Remarketing,25.9,136
+12/18/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,716.12,5200
+12/20/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,676.54,4686
+12/21/15,12,Desktop,Google,Managed,Display,AMS,Reach,23.46,58
+12/22/15,12,Tablet,Google,Managed,Display,APAC,Reach,2032.48,6534
+12/24/15,12,Tablet,Google,Managed,Display,APAC,Reach,1488.56,4482
+12/24/15,12,Desktop,Google,Managed,Display,EMEA,Reach,79.74,144
+12/31/15,12,Desktop,Google,Managed,Display,APAC,Reach,1346.78,6602
+12/31/15,12,Desktop,Google,Managed,Display,EMEA,Reach,2.5,6
+12/31/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,447.42,12838
+12/31/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,3282.22,123792
+12/31/15,12,Mobile,Google,Reach - Text,Display,LATAM,Reach,1906.6,88594
+12/31/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,593.98,14864
+12/31/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,267.2,10796
+12/19/15,12,Mobile,Google,In-Market,Display,AMS,Reach,281.06,2546
+12/19/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,300.48,2228
+12/19/15,12,Tablet,Google,In-Market,Display,AMS,Reach,22.78,86
+12/19/15,12,Tablet,Google,Managed,Display,LATAM,Reach,171.16,896
+12/21/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,137.72,402
+12/22/15,12,Desktop,Google,Managed,Display,APAC,Reach,7232.3,15574
+12/22/15,12,Desktop,Google,Managed,Display,EMEA,Reach,200.16,442
+12/22/15,12,Tablet,Google,Managed,Display,EMEA,Reach,163.18,610
+12/23/15,12,Desktop,Google,Managed,Display,LATAM,Reach,762.92,3290
+12/23/15,12,Tablet,Google,Managed,Display,APAC,Reach,2510.56,8032
+12/31/15,12,Tablet,Google,Reach - Text,Display,LATAM,Reach,59.98,2678
+12/1/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,794.02,312
+12/1/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,15.16,58
+12/1/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,38.54,18
+12/2/15,12,Mobile,Google,In-Market,Display,APAC,Reach,379.9,2646
+12/2/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,5.38,8
+12/3/15,12,Desktop,Google,In-Market,Display,APAC,Reach,170.14,458
+12/3/15,12,Mobile,Google,In-Market,Display,APAC,Reach,397.28,2620
+12/4/15,12,Desktop,Google,In-Market,Display,APAC,Reach,205.84,438
+12/4/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,103.78,420
+12/4/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.04,4
+12/4/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,531.72,292
+12/4/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,329.42,104
+12/4/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,20.96,784
+12/5/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,90.72,576
+12/5/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,363.26,114
+12/5/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,159,5890
+12/5/15,12,Tablet,Google,Managed,Display,LATAM,Reach,96.18,308
+12/5/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,29.46,1124
+12/5/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,219.98,48
+12/6/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,33.66,68
+12/6/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,223.26,48
+12/7/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,73.1,26
+12/7/15,12,Tablet,Google,Managed,Display,EMEA,Reach,90.56,74
+12/7/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,29.46,1236
+12/8/15,12,Desktop,Google,Managed,Display,EMEA,Reach,907.72,636
+12/8/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1204,3262
+12/8/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,77.74,42
+12/8/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,175.98,6994
+12/8/15,12,Tablet,Google,Managed,Display,EMEA,Reach,82.06,92
+12/8/15,12,Tablet,Google,Managed,Display,LATAM,Reach,59.88,226
+12/8/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,49.38,1810
+12/8/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,6.34,160
+12/9/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1276.1,3426
+12/9/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,168.32,6846
+12/9/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,100.92,3992
+12/9/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,75.74,56
+12/10/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,12.42,390
+12/10/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,102.1,4476
+12/10/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,83.14,68
+12/10/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,15.44,500
+12/11/15,12,Desktop,Google,Managed,Display,EMEA,Reach,440.96,434
+12/11/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,17.92,450
+12/11/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.82,54
+12/11/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,64.42,1244
+12/11/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,340.64,150
+12/1/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1615.16,3864
+12/1/15,12,Desktop,Google,Reach,Display,EMEA,Reach,21.02,6
+12/1/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,19.52,980
+12/2/15,12,Desktop,Google,Managed,Display,EMEA,Reach,909.44,702
+12/2/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,6.72,388
+12/2/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.06,6
+12/2/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,3.66,186
+12/2/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,4.54,136
+12/2/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,50.58,40
+12/3/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,797.98,92
+12/3/15,12,Tablet,Google,In-Market,Display,APAC,Reach,47.84,140
+12/3/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,42.7,26
+12/4/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,16.24,840
+12/4/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.38,30
+12/4/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,13.3,448
+12/4/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,1.14,30
+12/4/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,2.68,8
+12/5/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,18.44,1060
+12/5/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,1.14,2
+12/5/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,718.98,214
+12/5/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,446.36,162
+12/5/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,710.28,80
+12/5/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,281.9,10372
+12/5/15,12,Tablet,Google,In-Market,Display,APAC,Reach,48.6,120
+12/5/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,21.78,30
+12/6/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.96,86
+12/6/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,44.14,1632
+12/6/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,0.54,28
+12/6/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,9.56,30
+12/6/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,155.84,5900
+12/6/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,3.82,102
+12/7/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,0.72,6
+12/7/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,600.88,292
+12/7/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,530.64,216
+12/7/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,336.72,12942
+12/7/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,22.32,790
+12/8/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,90.5,3214
+12/8/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,0.14,8
+12/11/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,157.2,124
+12/11/15,12,Tablet,Google,In-Market,Display,APAC,Reach,77.24,424
+12/11/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,25.72,672
+12/11/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,13.46,494
+12/11/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,11.84,232
+12/11/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,8.9,12
+12/12/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,207.08,4488
+12/12/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,234.4,104
+12/12/15,12,Tablet,Google,In-Market,Display,APAC,Reach,88.46,532
+12/12/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,45.5,178
+12/13/15,12,Desktop,Google,Reach - Text,Display,APAC,Reach,52.02,1068
+12/13/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,2.86,60
+12/13/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,110.58,3030
+12/13/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,560.78,18860
+12/13/15,12,Tablet,Google,Managed,Display,AMS,Reach,547.82,510
+12/13/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,4.8,124
+12/13/15,12,Tablet,Google,Reach - Text,Display,LATAM,Reach,112.76,3774
+12/13/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,82.46,378
+12/14/15,12,Desktop,Google,In-Market,Display,AMS,Reach,48.28,30
+12/14/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.36,18
+12/14/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,2418.3,55474
+12/14/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,246.68,6700
+12/14/15,12,Mobile,Google,Remarketing,Display,APAC,Remarketing,26.66,124
+12/15/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,233,328
+12/15/15,12,Mobile,Google,In-Market,Display,AMS,Reach,399.26,4754
+12/15/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,1338.88,48002
+12/15/15,12,Mobile,Google,Reach - Text,Display,LATAM,Reach,2896.74,103832
+12/15/15,12,Tablet,Google,In-Market,Display,APAC,Reach,66.5,258
+12/15/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,7.92,170
+12/15/15,12,Tablet,Google,Reach - Text,Display,Global,Reach,1699.82,47000
+12/15/15,12,Tablet,Google,Remarketing - Text,Display,AMS,Remarketing,15.92,14
+12/16/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,4.76,90
+12/16/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,313.38,642
+12/16/15,12,Mobile,Google,In-Market,Display,AMS,Reach,391.34,5290
+12/16/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,1931.28,71212
+12/16/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,3840.92,133228
+12/16/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,6.86,134
+12/16/15,12,Tablet,Google,Reach - Text,Display,Global,Reach,1521,44204
+12/16/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,33.52,156
+12/17/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,1842.18,43958
+12/17/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,13.84,336
+12/17/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,17,112
+12/18/15,12,Desktop,Google,Managed,Display,AMS,Reach,14.5,34
+12/18/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,225.5,524
+12/19/15,12,Desktop,Google,Managed,Display,AMS,Reach,24.9,60
+12/19/15,12,Tablet,Google,Managed,Display,APAC,Reach,1361.1,4000
+12/20/15,12,Tablet,Google,Managed,Display,APAC,Reach,1277.32,4074
+12/21/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,33.78,74
+12/22/15,12,Tablet,Google,Managed,Display,LATAM,Reach,89.46,610
+12/23/15,12,Tablet,Google,Managed,Display,LATAM,Reach,78.3,530
+12/31/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,1123.44,26556
+12/31/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,324.12,7474
+12/31/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,2636.44,106248
+12/8/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,20.1,52
+12/8/15,12,Mobile,Google,In-Market,Display,APAC,Reach,312.42,1872
+12/8/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,178.32,6954
+12/8/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,0.22,2
+12/9/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,438.92,196
+12/9/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,635.64,264
+12/9/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,745.76,29856
+12/9/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,0.3,4
+12/9/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,22.74,8
+12/10/15,12,Desktop,Google,In-Market,Display,APAC,Reach,323.12,1208
+12/10/15,12,Mobile,Google,In-Market,Display,APAC,Reach,508.34,3650
+12/10/15,12,Mobile,Google,Remarketing,Display,EMEA,Remarketing,6.94,4
+12/10/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,0.72,6
+12/11/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,333.46,906
+12/11/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.26,10
+12/11/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,605.34,736
+12/11/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,59.52,34
+12/11/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,287.28,10826
+12/11/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,3.16,16
+12/11/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,1.66,4
+12/12/15,12,Desktop,Google,In-Market,Display,APAC,Reach,542.66,2912
+12/12/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,105.74,2912
+12/13/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,879.76,4550
+12/13/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.2,4
+12/13/15,12,Desktop,Google,Reach - Text,Display,AMS,Reach,0.04,4
+12/13/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,73.18,34
+12/13/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,19.62,150
+12/13/15,12,Mobile,Google,Reach - Text,Display,Global,Reach,4084.3,144284
+12/13/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,24.94,16
+12/14/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,21.58,92
+12/14/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,299.9,10498
+12/14/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,53.3,128
+12/14/15,12,Tablet,Google,In-Market,Display,AMS,Reach,43.8,64
+12/14/15,12,Tablet,Google,Managed,Display,LATAM,Reach,183.62,780
+12/14/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,40.4,1128
+12/14/15,12,Tablet,Google,Reach - Text,Display,APAC,Reach,70.78,2290
+12/15/15,12,Desktop,Google,Reach - Text,Display,AMS,Reach,0.2,4
+12/15/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,947.76,1202
+12/15/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,622.8,7828
+12/15/15,12,Tablet,Google,Managed,Display,EMEA,Reach,161.96,844
+12/15/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,42.6,92
+12/15/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,17.74,14
+12/16/15,12,Desktop,Google,Managed,Display,LATAM,Reach,4426.58,18280
+12/16/15,12,Desktop,Google,Remarketing - Text,Display,APAC,Remarketing,13.6,44
+12/16/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,390.72,13342
+12/16/15,12,Mobile,Google,Reach - Text,Display,AMS,Reach,0.04,4
+12/16/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,45.48,202
+12/16/15,12,Tablet,Google,In-Market,Display,AMS,Reach,36.26,104
+12/16/15,12,Tablet,Google,Managed,Display,LATAM,Reach,126.02,628
+12/16/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,1869.02,43818
+12/16/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,309.36,9264
+12/16/15,12,Tablet,Google,Reach - Text,Display,APAC,Reach,22.94,752
+12/16/15,12,Tablet,Google,Remarketing - Text,Display,APAC,Remarketing,0.8,14
+12/16/15,12,Tablet,Google,Remarketing - Text,Display,EMEA,Remarketing,1.04,2
+12/17/15,12,Desktop,Google,Managed,Display,APAC,Reach,5420.22,11624
+12/17/15,12,Desktop,Google,Managed,Display,EMEA,Reach,159.92,286
+12/17/15,12,Desktop,Google,Reach - Text,Display,AMS,Reach,0.12,2
+12/17/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,3329.02,11588
+12/17/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,199.9,3616
+12/17/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,788.08,38578
+12/17/15,12,Tablet,Google,Managed,Display,EMEA,Reach,265.68,1054
+12/17/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,9.9,216
+12/18/15,12,Desktop,Google,Managed,Display,LATAM,Reach,2991.02,12952
+12/19/15,12,Desktop,Google,In-Market,Display,AMS,Reach,1.74,10
+12/19/15,12,Desktop,Google,Managed,Display,APAC,Reach,4678.28,10644
+12/19/15,12,Desktop,Google,Managed,Display,EMEA,Reach,254.04,480
+12/19/15,12,Tablet,Google,Managed,Display,AMS,Reach,217.5,526
+12/21/15,12,Desktop,Google,In-Market,Display,AMS,Reach,1.48,4
+12/21/15,12,Tablet,Google,Managed,Display,AMS,Reach,303.66,764
+12/31/15,12,Tablet,Google,Managed,Display,LATAM,Reach,21.28,116
+12/1/15,12,Desktop,Google,In-Market,Display,APAC,Reach,303.16,916
+12/1/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,63.9,2874
+12/1/15,12,Mobile,Google,In-Market,Display,APAC,Reach,593.5,4328
+12/2/15,12,Desktop,Google,In-Market,Display,APAC,Reach,191.1,530
+12/2/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,111.76,428
+12/2/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,529.14,362
+12/2/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,304.76,94
+12/2/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,0.12,2
+12/2/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,4.52,6
+12/3/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,105.84,404
+12/3/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,610.58,184
+12/3/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,392.32,108
+12/3/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,102.36,3468
+12/3/15,12,Tablet,Google,Reach,Display,EMEA,Reach,7.7,2
+12/3/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,11.7,456
+12/3/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,7.22,8
+12/4/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,176.76,38
+12/5/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.06,6
+12/6/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.06,4
+12/6/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,45.5,28
+12/6/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,165.6,6434
+12/6/15,12,Tablet,Google,Managed,Display,EMEA,Reach,118.72,92
+12/6/15,12,Tablet,Google,Managed,Display,LATAM,Reach,89.62,308
+12/6/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,32.92,1154
+12/7/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,179.24,6900
+12/7/15,12,Tablet,Google,Managed,Display,LATAM,Reach,66.02,218
+12/7/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,57.54,72
+12/7/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,274.22,42
+12/8/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,44.62,2138
+12/8/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,16.46,436
+12/8/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,41.86,78
+12/9/15,12,Desktop,Google,Managed,Display,EMEA,Reach,935.5,582
+12/9/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,109.68,32
+12/9/15,12,Tablet,Google,Managed,Display,EMEA,Reach,93.74,92
+12/9/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,9.32,304
+12/9/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,43.94,1720
+12/9/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,1.54,40
+12/10/15,12,Desktop,Google,Managed,Display,EMEA,Reach,599.66,568
+12/10/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1884.66,5956
+12/10/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,115.06,2826
+12/10/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,194.38,3624
+12/10/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,16.16,480
+12/11/15,12,Desktop,Google,Managed,Display,LATAM,Reach,3609.5,10862
+12/11/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,103.2,4798
+12/11/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,29.96,64
+12/12/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,26.48,610
+12/12/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,2.48,78
+12/12/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,290,184
+12/13/15,12,Desktop,Google,In-Market,Display,AMS,Reach,2.04,8
+12/13/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,25.18,622
+12/13/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.9,52
+12/13/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,853.56,16262
+12/13/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,820.1,518
+12/13/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,149.06,82
+12/13/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,591.46,20614
+12/13/15,12,Mobile,Google,Reach - Text,Display,APAC,Reach,0.02,2
+12/13/15,12,Mobile,Google,Remarketing - Image,Display,AMS,Remarketing,122.72,92
+12/13/15,12,Tablet,Google,In-Market,Display,APAC,Reach,88.68,580
+12/13/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,3.14,56
+12/14/15,12,Desktop,Google,Reach - Text,Display,APAC,Reach,93.58,2030
+12/14/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,2.46,60
+12/14/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,624.08,590
+12/14/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,111.18,26
+12/14/15,12,Mobile,Google,In-Market,Display,AMS,Reach,364.8,2786
+12/14/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,793.2,28006
+12/14/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,2602.1,106148
+12/14/15,12,Mobile,Google,Reach - Text,Display,APAC,Reach,0.02,2
+12/14/15,12,Tablet,Google,In-Market,Display,APAC,Reach,70.16,282
+12/14/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,6.32,116
+12/14/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,2.42,64
+12/14/15,12,Tablet,Google,Reach - Text,Display,Global,Reach,1453.16,41122
+12/14/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,110.96,520
+12/15/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,3033.86,70270
+12/15/15,12,Desktop,Google,Reach - Text,Display,APAC,Reach,138.92,3018
+12/15/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,3.76,88
+12/15/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,354.62,8156
+12/15/15,12,Desktop,Google,Remarketing - Text,Display,EMEA,Remarketing,18.44,10
+12/15/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,3773.98,141196
+12/16/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,3281.48,74758
+12/16/15,12,Desktop,Google,Reach - Text,Display,LATAM,Reach,318.54,6540
+12/16/15,12,Desktop,Google,Remarketing - Text,Display,AMS,Remarketing,1405.5,310
+12/16/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,51.1,1396
+12/16/15,12,Mobile,Google,Reach - Text,Display,LATAM,Reach,2746.88,101800
+12/16/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,14.58,34
+12/16/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,1.22,2
+12/16/15,12,Tablet,Google,Remarketing - Text,Display,AMS,Remarketing,68.1,28
+12/17/15,12,Desktop,Google,Managed,Display,AMS,Reach,6.32,16
+12/17/15,12,Desktop,Google,Reach - Text,Display,Global,Reach,4328.32,82646
+12/17/15,12,Desktop,Google,Remarketing - Text,Display,AMS,Remarketing,122,132
+12/17/15,12,Mobile,Google,Image,Display,APAC,Remarketing,23.04,126
+12/17/15,12,Mobile,Google,In-Market,Display,AMS,Reach,217.56,4144
+12/17/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,1793.24,65122
+12/17/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,5449.5,227022
+12/17/15,12,Mobile,Google,Reach - Text,Display,LATAM,Reach,2326.24,84664
+12/17/15,12,Tablet,Google,Managed,Display,APAC,Reach,1185.84,3388
+12/17/15,12,Tablet,Google,Reach - Text,Display,Global,Reach,1240.22,35386
+12/17/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,0.96,2
+12/17/15,12,Tablet,Google,Remarketing - Image,Display,Global,Remarketing,105.04,696
+12/17/15,12,Tablet,Google,Remarketing - Text,Display,AMS,Remarketing,13.18,16
+12/18/15,12,Tablet,Google,Managed,Display,APAC,Reach,1456.9,4162
+12/19/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,43.14,116
+12/19/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,96.14,286
+12/20/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,125.56,228
+12/20/15,12,Desktop,Google,Managed,Display,AMS,Reach,51.82,114
+12/20/15,12,Tablet,Google,In-Market,Display,EMEA,Reach,244.22,634
+12/21/15,12,Tablet,Google,In-Market,Display,AMS,Reach,49.22,134
+12/21/15,12,Tablet,Google,Managed,Display,APAC,Reach,1823.48,5508
+12/23/15,12,Tablet,Google,Managed,Display,EMEA,Reach,177.2,608
+12/24/15,12,Desktop,Google,Managed,Display,APAC,Reach,4184.92,9806
+12/24/15,12,Desktop,Google,Managed,Display,LATAM,Reach,99.12,458
+12/24/15,12,Tablet,Google,Managed,Display,EMEA,Reach,88.34,296
+12/24/15,12,Tablet,Google,Managed,Display,LATAM,Reach,21.6,154
+12/31/15,12,Desktop,Google,Remarketing - Text,Display,Global,Remarketing,1025.4,7398
+12/31/15,12,Tablet,Google,Reach - Text,Display,Global,Reach,877.28,24820
+12/1/15,12,Desktop,Google,Managed,Display,EMEA,Reach,1452.5,680
+12/1/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,3.92,210
+12/1/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,2.76,112
+12/1/15,12,Tablet,Google,Managed,Display,EMEA,Reach,130.2,132
+12/1/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,1.24,44
+12/1/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,59.34,54
+12/2/15,12,Desktop,Google,Managed,Display,LATAM,Reach,1196.94,3088
+12/2/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,751.34,78
+12/2/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,52.88,2440
+12/3/15,12,Desktop,Google,Managed,Display,EMEA,Reach,928.42,526
+12/3/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,8.4,428
+12/3/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,0.4,14
+12/3/15,12,Mobile,Google,Reach - Image,Display,APAC,Reach,14.3,686
+12/3/15,12,Tablet,Google,Reach - Image,Display,EMEA,Reach,7.18,188
+12/3/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,13.56,24
+12/4/15,12,Desktop,Google,Reach - Image,Display,LATAM,Reach,1.5,78
+12/4/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,659.3,182
+12/4/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,850.94,98
+12/4/15,12,Tablet,Google,In-Market,Display,APAC,Reach,27.52,88
+12/4/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,35.2,26
+12/5/15,12,Desktop,Google,Reach - Image,Display,APAC,Reach,18.64,906
+12/5/15,12,Desktop,Google,Reach - Image,Display,EMEA,Reach,1.84,88
+12/5/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,0.16,14
+12/5/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,15.92,44
+12/5/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,155.94,5498
+12/5/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,1.96,48
+12/5/15,12,Tablet,Google,Reach - Text,Display,EMEA,Reach,0.46,14
+12/5/15,12,Tablet,Google,Remarketing,Display,Global,Remarketing,11.58,26
+12/5/15,12,Tablet,Google,Remarketing,Display,LATAM,Remarketing,0.72,4
+12/6/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,592.9,254
+12/6/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,400.36,168
+12/6/15,12,Desktop,Google,Remarketing - Image,Display,AMS,Remarketing,738.34,104
+12/6/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,309.24,11846
+12/6/15,12,Tablet,Google,In-Market,Display,APAC,Reach,44.22,140
+12/6/15,12,Tablet,Google,Remarketing,Display,EMEA,Remarketing,64.52,60
+12/7/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,43.86,1488
+12/7/15,12,Desktop,Google,Reach - Text,Display,EMEA,Reach,0.16,8
+12/7/15,12,Desktop,Google,Remarketing,Display,LATAM,Remarketing,42.34,50
+12/7/15,12,Mobile,Google,Reach - Image,Display,LATAM,Reach,175.22,6726
+12/7/15,12,Tablet,Google,Reach - Image,Display,AMS,Reach,2.22,58
+12/8/15,12,Desktop,Google,Remarketing,Display,APAC,Remarketing,667.08,288
+12/8/15,12,Desktop,Google,Remarketing,Display,EMEA,Remarketing,489.76,150
+12/8/15,12,Mobile,Google,Reach - Image,Display,EMEA,Reach,358.96,13840
+12/8/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,681.1,26620
+12/8/15,12,Mobile,Google,Reach - Text,Display,EMEA,Reach,35.92,1220
+12/8/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,3.66,16
+12/8/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,6.72,6
+12/9/15,12,Desktop,Google,Reach - Image,Display,Global,Reach,94.44,3432
+12/9/15,12,Mobile,Google,In-Market,Display,APAC,Reach,336.76,1646
+12/10/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,228.82,1412
+12/10/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,882.96,576
+12/10/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,2553.24,73582
+12/10/15,12,Tablet,Google,In-Market,Display,LATAM,Reach,2.78,18
+12/10/15,12,Tablet,Google,Remarketing - Image,Display,EMEA,Remarketing,10.64,8
+12/11/15,12,Desktop,Google,In-Market,Display,APAC,Reach,521.54,2696
+12/11/15,12,Mobile,Google,In-Market,Display,APAC,Reach,972,7862
+12/11/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,68.72,1858
+12/12/15,12,Desktop,Google,In-Market,Display,LATAM,Reach,883.16,5280
+12/12/15,12,Desktop,Google,Reach - Image,Display,AMS,Reach,0.16,8
+12/12/15,12,Desktop,Google,Remarketing,Display,Global,Remarketing,330.6,1246
+12/12/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,140,68
+12/12/15,12,Mobile,Google,Reach - Image,Display,Global,Reach,11832.9,348278
+12/12/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,76.06,48
+12/12/15,12,Unknown,Google,Reach - Image,Display,Global,Reach,0.12,2
+12/13/15,12,Desktop,Google,In-Market,Display,APAC,Reach,704.34,3238
+12/13/15,12,Desktop,Google,In-Market,Display,EMEA,Reach,8.9,36
+12/13/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,45.24,54
+12/13/15,12,Tablet,Google,In-Market,Display,AMS,Reach,2.78,14
+12/13/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,90.22,2594
+12/14/15,12,Desktop,Google,Reach - Text,Display,AMS,Reach,0.06,2
+12/14/15,12,Desktop,Google,Remarketing - Image,Display,EMEA,Remarketing,24.72,8
+12/14/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,1059.04,1408
+12/14/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,478.44,5714
+12/14/15,12,Mobile,Google,Reach - Text,Display,Global,Reach,7835.86,300634
+12/14/15,12,Tablet,Google,Managed,Display,EMEA,Reach,149.56,192
+12/14/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,43,56
+12/14/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,11.12,10
+12/15/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,404.6,13730
+12/15/15,12,Mobile,Google,Remarketing - Image,Display,EMEA,Remarketing,55.64,196
+12/15/15,12,Tablet,Google,In-Market,Display,AMS,Reach,37.06,102
+12/15/15,12,Tablet,Google,Managed,Display,LATAM,Reach,124.92,572
+12/15/15,12,Tablet,Google,Reach - Image,Display,APAC,Reach,102.62,2832
+12/15/15,12,Tablet,Google,Reach - Text,Display,APAC,Reach,25.04,884
+12/16/15,12,Desktop,Google,Managed,Display,APAC,Reach,2810.96,6032
+12/16/15,12,Desktop,Google,Reach - Text,Display,AMS,Reach,0.18,12
+12/16/15,12,Desktop,Google,Remarketing - Image,Display,Global,Remarketing,1231.74,2642
+12/16/15,12,Mobile,Google,In-Market,Display,EMEA,Reach,486.92,6700
+12/16/15,12,Tablet,Google,Managed,Display,EMEA,Reach,255.24,1138
+12/16/15,12,Tablet,Google,Remarketing,Display,APAC,Remarketing,40.1,162
+12/16/15,12,Tablet,Google,Remarketing - Image,Display,AMS,Remarketing,21.44,14
+12/17/15,12,Desktop,Google,Managed,Display,LATAM,Reach,3223.9,14160
+12/17/15,12,Desktop,Google,Remarketing - Text,Display,APAC,Remarketing,221.78,700
+12/17/15,12,Mobile,Google,Reach - Image,Display,AMS,Reach,142.6,5024
+12/17/15,12,Mobile,Google,Reach - Text,Display,AMS,Reach,0.06,4
+12/17/15,12,Tablet,Google,Managed,Display,LATAM,Reach,130.36,656
+12/17/15,12,Tablet,Google,Reach - Image,Display,Global,Reach,1070.44,26824
+12/17/15,12,Tablet,Google,Reach - Image,Display,LATAM,Reach,137.44,3892
+12/17/15,12,Tablet,Google,Reach - Text,Display,APAC,Reach,17.78,518
+12/17/15,12,Tablet,Google,Remarketing - Text,Display,EMEA,Remarketing,5.34,6
+12/17/15,12,Tablet,Google,Remarketing - Text,Display,Global,Remarketing,474.2,3482
+12/18/15,12,Desktop,Google,Managed,Display,APAC,Reach,5252.28,10520
+12/18/15,12,Desktop,Google,Managed,Display,EMEA,Reach,242.7,266
+12/19/15,12,Desktop,Google,Managed,Display,LATAM,Reach,2601.52,12132
+12/20/15,12,Desktop,Google,In-Market,Display,AMS,Reach,16.04,36
+12/20/15,12,Desktop,Google,Managed,Display,EMEA,Reach,452.84,674
+12/20/15,12,Tablet,Google,Managed,Display,AMS,Reach,766.36,2106
+12/31/15,12,Mobile,Google,Reach - Text,Display,Global,Reach,5021.32,185760
+12/31/15,12,Tablet,Google,Managed,Display,EMEA,Reach,4.04,16
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
